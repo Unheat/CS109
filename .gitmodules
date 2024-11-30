@@ -1,0 +1,6 @@
+[submodule "Polarized_US_Politics"]
+	path = Polarized_US_Politics
+	url = https://github.com/Unheat/Polarized_US_Politics
+[submodule "etch_a_sketch"]
+	path = etch_a_sketch
+	url = https://github.com/Unheat/etch_a_sketch
