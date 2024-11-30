@@ -4,3 +4,9 @@
 [submodule "etch_a_sketch"]
 	path = etch_a_sketch
 	url = https://github.com/Unheat/etch_a_sketch
+[submodule "personality_test"]
+	path = personality_test
+	url = https://github.com/Unheat/personality_test
+[submodule "morse_beep_translator"]
+	path = morse_beep_translator
+	url = https://github.com/Unheat/morse_translator
